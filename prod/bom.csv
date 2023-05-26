@@ -1,0 +1,35 @@
+Деталь,Матеріал,Товщина листа,Файли,Кількість,Revision A,,alt_names
+base_plate,сталь (тип 1),10,base_plate_8-Body.dxf,1,Ok,,базова_плита
+back_wall,сталь (тип 1),10,"back_wall_Body.dxf, зс-1.pdf",1,Ok,,задня стінка
+left_wall,сталь (тип 1),10,"left_wall_Body.dxf, лс-1.pdf",1,Ok,,ліва стінка
+inner_wall,сталь (тип 1),10,"inner_wall_Body.dxf, сс-1.pdf",1,Ok,,внутрішня стінка
+right_wall,сталь (тип 1),10,"right_wall_Body.dxf, прс-1.pdf",1,Ok,,права стінка
+shaft,,,в-1.pdf,1,Ok,,вал
+rotor1,сталь (тип 1),16,rotor1.dxf,1,Ok,,ротор 1
+rotor2,сталь (тип 1),10,rotor2.dxf,1,Ok,,ротор 2
+wear_plate_left,сталь (тип 2),3,wear_plate_left-Body.dxf,1,Ok,,ліва зношувана
+wear_plate_right,сталь (тип 2),3,wear_plate_right-Body.dxf,1,Ok,,права зношувана плита
+shell_shuttle_plate_pusher_housing,сталь (тип 1),,кшкп-1.pdf,2,Ok,,корпус штовхача ковзаючої плити
+primer_picker,бронза,3,primer_picker-Body.dxf,1,Ok,,подавач к
+primer_picker_pusher_housing,сталь (тип 1),,кшп-1.pdf,1,Ok,,корпус штовхача подавача к
+primer_picker_pusher,бронза,,шп-1.pdf,1,Ok,,штовхач подавача к
+shell_shuttle_plate_cover_spaser,сталь (тип 2),5,shell_shuttle_plate_cover_spacer.dxf,1,Ok,,проміжна пластина
+shell_shuttle_plate,сталь (тип 2),5,"shell_shuttle_plate.dxf, кп-1.pdf",1,Ok,,ковзаюча пластина
+shell_holder_plate,сталь (тип 2),5,"shell_holder_plate.dxf, зтп-1.pdf",1,Ok,,
+shell_shuttle_plate_cover,сталь (тип 2),5,shell_shuttle_plate_cover-Body.dxf,1,Ok,,тримаюча пластина
+shell_shuttle_plate_pusher,бронза,,шкп-1.pdf,3,Ok,,штовхач ковзаючої пластини
+shell_shuttle_recoverer,сталь (тип 1),10,shell_shuttle_recoverer.dxf,2,Ok,,повертач ковзаючої пластини
+connecting_rod,сталь (тип 1),10,connecting_rod.dxf,1,Ok,,шатун
+carrier_plate,сталь (тип 1),16,carrier_plate.dxf,1,Ok,,несуча плита
+bullet_seeder_housing,сталь (тип 1),,кс-1.pdf,1,Ok,,корпус сівалки
+bullet_seeder_pusher,бронза,,шс-1.pdf,1,Ok,,штовхач сівалки
+spring_loaded_lock_housing,сталь (тип 1),,кзкп-1.pdf,1,Ok,,корпус замка ковзаючої плити
+holder,сталь (тип 1),,"holder.dxf, т-1.pdf",1,Ok,,тримач
+positioner,сталь (тип 1),,positioner.dxf,1,Ok,,позиціонувач
+base_plate_whole_plug,сталь (тип 2),,цк-1.pdf,2,Ok,,
+primer_piston,сталь (тип 2),,пк-1.pdf,1,Ok,,
+swaging_lever,сталь (тип 2),10,swaging_lever.dxf,2,Ok,,
+connecting_rod_joint,сталь (тип 1),10,"connecting_rod_joint.dxf, тш-1.pdf",2,Ok,,
+levers_holder,сталь (тип 1),,г-1.pdf,1,Ok,,
+excentric,сталь (тип 2),10,excentric.dxf,1,Ok,,
+swagger,сталь (тип 2),,фко-1.pdf,1,Ok,,
